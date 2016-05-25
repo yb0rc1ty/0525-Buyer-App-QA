@@ -1,0 +1,13 @@
+{
+  "appname": "0525 Buyer App QA",
+  "ocscope": "FullAccess",
+  "clientid": "519F4CDF-D3FE-41CF-A2C2-E571A36BAF66",
+  "buyerid": "connorjtest_buyer",
+  "environment": "test",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
